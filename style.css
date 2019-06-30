@@ -1,0 +1,125 @@
+body{
+    background-color:#A1D3EC;
+    margin: 5px;
+    font-size: 1.75em;
+    line-height: 1.5em;
+}
+#header{
+    background-color: blueviolet;
+    border-radius: 5px;
+    height: 90px;
+}
+#logo{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size:2.5em;
+    margin: auto auto auto auto;
+    padding: 20px;
+}
+/*========NAV BAR=========*/
+#navbar{
+    background-color: rgb(74, 113, 230);
+    margin: 8px;
+    border-radius: 5px;
+    height: 40px;
+    width: 90%;
+    margin: 1% 5% 1% 5%;
+}
+#navbar ul{
+    list-style: none;
+    text-align: center;
+    
+}
+#navbar ul li{
+    display: inline;
+    padding: 20px;
+    font-size: 26px;
+    
+}
+#navbar ul li a:hover{
+    color: aliceblue;
+    background-color:rgb(226, 88, 88);
+
+}
+/*============================*/
+#rightsidebar{
+    background-color: rgb(203, 136, 230);
+    float: right;
+    border: 5px,solid,black;
+    padding: 10px;
+    width: 15%;
+    height: 600px;
+    margin: 200px 5px auto 10px;
+    border-radius: 3px;
+    list-style: none;
+    
+    
+}
+#morelinks{
+    text-decoration: none;
+}
+/*==========MAIN===========*/
+.main{
+    background-color:#A1D3EC;
+    margin: 5px;
+    border-radius: 3px;
+    width: 80%;
+    padding: 15px;
+}
+#test{
+    font-size: 200%;
+}
+#talikotaimg{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+}
+#karnalimg{
+    height: 200px;
+    width: 150px;
+    float: left;
+    margin: 10px;
+}
+#panipatimg{
+    height: 200px;
+    width: 150px;
+    float: left;
+    margin: 10px;
+}
+#palassyimg{
+    height: 180px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+}
+#kohimaimg{
+    height: 220px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+}
+/*================*/
+#footer{
+    background-color: rgb(74, 113, 230);
+    margin: 8px;
+    border-radius: 5px;
+    height: 40px;
+    width: 90%;
+    clear: both;
+    text-align: center;
+    font-size: 0.80em;
+    margin: 1% 5% 1% 5%;
+
+}
+h3{
+    font-size: 120%;
+}
+
+#heading{
+    color:black;
+}
+#image{
+    width: 100%;
+    border-radius:5px;
+}
